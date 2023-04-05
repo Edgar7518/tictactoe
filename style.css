@@ -11,6 +11,13 @@ body {
     background-color: #efe7e5;
 }
 
+#title {
+	display: flex;
+	justify-content: center;
+	color: #0275d8;
+	font-size: 50px;
+}
+
 .board {
 	width: 100vw;
 	height: 100vh;
